@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&display=swap');
+/*************
+--BODY STYLE--
+*************/
+
+.containerindex{
+	display: flex;
+	flex-direction: row;
+}
+.articleindex{
+	width: 20%;
+	p	
+
+	
+}
+.contenu{
+	width: 50%;
+	position: relative;
+
+}
+
+
+#FR-GES{
+	stroke: white;
+	stroke-width: 1px;
+	cursor: pointer;
+	}
+
+/*#FR-GES:hover {
+
+	fill: white;
+	stroke: white;
+	stroke-width: 1px;
+	cursor: pointer;
+	}*/
+
+.map {
+	position: relative;
+	top: 20px;
+	left: 5%;
+	background: #e6f2fa;
+	width: 511px;
+	padding: 1%;
+}
+
+.map-image path {
+	fill: #008be6;
+	stroke: white;
+	stroke-width: 1px;
+	cursor: pointer;
+}
+
+.map-image path:hover {
+	fill: #005186;
+	stroke: white;
+	stroke-width: 1px;
+	transition: fill 0.2s;
+}
+
+/*#FR-GES_1_:hover {
+
+	background-color: green;
+
+}*/
+
+.a:hover{
+	color: green;
+}

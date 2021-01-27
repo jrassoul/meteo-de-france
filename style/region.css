@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&display=swap');
+
+/*body {
+
+	font-family: 'Lato';
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}*/
+
+/***************
+--HEADER STYLE--
+***************/
+/*
+.m-left {
+    float: left;
+}*/
+
+/*
+h1{
+    padding-left: 180px;
+    color: black;
+    text-shadow:3px 3px 3px white;
+    line-height: 30px;
+}*/
+
+/*************
+--BODY STYLE--
+*************/
+#nom_region{
+	position: relative;
+	top: 25px;
+	
+	text-align: center;
+}
+.map2 {
+	position: relative;
+	top: 20px;
+	left: 5%;
+	background: #e6f2fa;
+	height: 361px;
+	width: 470px;
+	padding: 1%;
+	padding-bottom: 200px;
+}
+
+.map2-image path {
+	fill: #008be6;
+	stroke: white;
+	stroke-width: 1px;
+	cursor: pointer;
+
+}
+
+.map2-image path:hover {
+	fill: #005186;
+	stroke: white;
+	stroke-width: 1px;
+	transition: fill 0.2s;
+}
+
+
